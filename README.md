@@ -19,6 +19,7 @@
 • DB에 같은 아이디가 존재하는지 확인하는 과정을 거침
 <br/>
 • 개인 정보를 모두 입력하지 않은 경우 입력을 요구하는 창이 뜸
+<br/>
 <img width="480" alt="image" src="https://github.com/iey704/NetworkTermProject_Kakao/assets/105503671/eb79c4db-3ed3-4c29-9248-717fb7f2d8ea">
 <br/>
 • DB에 정보를 저장함
@@ -53,6 +54,6 @@
    대화 내용을 모두에게 전달됩니다.
 
 ## 05. File Send
-![image](https://github.com/iey704/NetworkTermProject_Kakao/assets/105503671/e5e7cecb-5d4c-4972-a47f-f25626dcb7e2)
+<img width="308" alt="image" src="https://github.com/iey704/NetworkTermProject_Kakao/assets/105503671/a206ed2e-91b9-4e64-92bf-e5b22750d394">
 <br/>
 • 파일 전송 버튼을 클릭하면 채팅창에서, 서버는 클라이언트가 보낸 파일을 수신하고, 파일을 'd:/JAVA_project' 폴더에 저장합니다. 동일한 이름으로 저장되어 있는지 확인합니다
