@@ -5,6 +5,7 @@
 <img width="593" alt="image" src="https://github.com/iey704/NetworkTermProject_Kakao/assets/105503671/b1711c86-2c11-4468-a9b1-254587f09442">
 <br/>
 [Login Core Part]
+<br/>
 <img width="486" alt="image" src="https://github.com/iey704/NetworkTermProject_Kakao/assets/105503671/66a317bb-124b-42cd-8b3d-08c0f3d99402">
 <br/>
 • DB에 정보가 저장된 경우에만 사용 가능
@@ -12,6 +13,7 @@
 • 아이디 혹은 비밀번호를 입력하지 않은 경우 입력을 요구하는 창이 뜸
 <br/>
 [Register Core Part]
+<br/>
 <img width="407" alt="image" src="https://github.com/iey704/NetworkTermProject_Kakao/assets/105503671/a7976bf2-55cd-4763-a30b-68777fc94252">
 <br/>
 • DB에 같은 아이디가 존재하는지 확인하는 과정을 거침
@@ -23,6 +25,7 @@
 
 ## 03. User Management
 <img width="558" alt="image" src="https://github.com/iey704/NetworkTermProject_Kakao/assets/105503671/fc35d0d7-8527-470b-9c3b-cfc52aa0aeb0">
+<br/>
 • JTree 구조를 사용하여, 친구 리스트 내관계-친구 조직도 형성
 <br/>
 • 친구 추가 아이콘을 클릭하여, 친구 아이디를 입력한 후 친구 추가 
@@ -51,3 +54,5 @@
 
 ## 05. File Send
 ![image](https://github.com/iey704/NetworkTermProject_Kakao/assets/105503671/e5e7cecb-5d4c-4972-a47f-f25626dcb7e2)
+<br/>
+• 파일 전송 버튼을 클릭하면 채팅창에서, 서버는 클라이언트가 보낸 파일을 수신하고, 파일을 'd:/JAVA_project' 폴더에 저장합니다. 동일한 이름으로 저장되어 있는지 확인합니다
